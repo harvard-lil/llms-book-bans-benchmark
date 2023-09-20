@@ -2,7 +2,7 @@
 
 Pipeline used in the context of our experiment: [_"AI Book Bans: Are LLMs Champions of the Freedom to Read?"_](https://lil.law.harvard.edu)
 
-Dataset available on HuggingFace: [LINK]
+Dataset available on [HuggingFace](https://huggingface.co/datasets/harvard-lil/llms-book-bans-benchmark).
 
 ---
 
