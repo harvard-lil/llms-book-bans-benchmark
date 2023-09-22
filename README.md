@@ -1,6 +1,6 @@
 # llms-book-bans-benchmark
 
-![](https://lil-blog-media.s3.amazonaws.com/ai-book-bans-lead-graphic.png)
+<a href="https://lil.law.harvard.edu/blog/2023/09/24/ai-book-bans-freedom-to-read-case-study/"><img src="https://lil-blog-media.s3.amazonaws.com/ai-book-bans-lead-graphic.png"></a>
 
 Pipeline used in the context of our experiment: [_"AI Book Bans: Are LLMs Champions of the Freedom to Read?"_](https://lil.law.harvard.edu/blog/2023/09/24/ai-book-bans-freedom-to-read-case-study/)
 
