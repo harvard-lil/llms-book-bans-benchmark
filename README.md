@@ -1,6 +1,8 @@
 # llms-book-bans-benchmark
 
-Pipeline used in the context of our experiment: [_"AI Book Bans: Are LLMs Champions of the Freedom to Read?"_](https://lil.law.harvard.edu)
+![](https://lil-blog-media.s3.amazonaws.com/ai-book-bans-lead-graphic.png)
+
+Pipeline used in the context of our experiment: [_"AI Book Bans: Are LLMs Champions of the Freedom to Read?"_](https://lil.law.harvard.edu/blog/2023/09/24/ai-book-bans-freedom-to-read-case-study/)
 
 Dataset available on [HuggingFace](https://huggingface.co/datasets/harvard-lil/llms-book-bans-benchmark).
 
